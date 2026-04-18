@@ -12,7 +12,7 @@
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.20.2",
-        "26.1.2"
+        "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.8",
     "crossplay": false,
